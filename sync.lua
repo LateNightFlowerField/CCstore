@@ -1,1 +1,1 @@
-shell.run("wget", "https://raw.githubusercontent.com/LateNightFlowerField/CCstore/main/main.lua?token=GHSAT0AAAAAAB6P2DG7VDFH6G4GOXKLR6LUY7SNBBA")
+shell.run("wget", "https://raw.githubusercontent.com/LateNightFlowerField/CCstore/main/main.lua")
