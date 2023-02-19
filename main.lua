@@ -1,2 +1,2 @@
-local barrels = peripheral.find("barrels")
+local barrels = peripheral.find("barrel")
 print(barrels)
